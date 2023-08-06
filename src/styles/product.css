@@ -1,0 +1,12 @@
+.product-card-container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 1rem 8%;
+  justify-content: space-between;
+}
+
+.btn {
+  width: 100%;
+  margin-top: 2rem;
+}
