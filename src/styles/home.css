@@ -3,7 +3,6 @@
   border-radius: 10px;
 }
 
-/* Optional: To change the active indicator color */
 .ant-carousel .slick-dots li.slick-active button {
   background-color: gray;
 }
